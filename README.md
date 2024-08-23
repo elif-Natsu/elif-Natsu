@@ -1,28 +1,15 @@
-## Hi there 👋
 
-# My GitHub Profile
-
-## Animated SVG Example
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <!-- Typing -->
+  <a href="">
     <img src="https://elif-natsu.github.io/assets/svgtest.svg" /></a>
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://instagram.com/natsuu___/"><img width="32px" alt="Instagram" title="Instragram" src="https://i.imgur.com/xB5SZSR.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/Natssuu__"><img width="32px" alt="X" title="X" src="https://i.imgur.com/4e7TNt4.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/365643568871899146"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/9gxwDz7.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
-This is an example of an animated SVG embedded in a GitHub README.
 
-<!--
-**elif-Natsu/elif-Natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
