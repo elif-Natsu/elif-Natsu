@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# My GitHub Profile
+
+## Animated SVG Example
+
+![Animated SVG](https://elif-natsu.github.io/assets/svgtest.svg)
+
+This is an example of an animated SVG embedded in a GitHub README.
+
 <!--
 **elif-Natsu/elif-Natsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
