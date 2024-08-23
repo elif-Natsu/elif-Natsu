@@ -4,7 +4,7 @@
 
 ## Animated SVG Example
 
-![Animated SVG](https://elif-natsu.github.io/assets/svgtest.svg)
+<a align=center>![Animated SVG](https://elif-natsu.github.io/assets/svgtest.svg)<a>
 
 This is an example of an animated SVG embedded in a GitHub README.
 
