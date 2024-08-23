@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://elif-natsu.github.io/assets/svgtest.svg" /></a>
+    <img src="" /></a>
 </p>
 <!--![Animated SVG](https://elif-natsu.github.io/assets/svgtest.svg)
 
