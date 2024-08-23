@@ -3,8 +3,12 @@
 # My GitHub Profile
 
 ## Animated SVG Example
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://elif-natsu.github.io/assets/svgtest.svg" /></a>
+</p>
 
-<a align=center>![Animated SVG](https://elif-natsu.github.io/assets/svgtest.svg)<a>
 
 This is an example of an animated SVG embedded in a GitHub README.
 
