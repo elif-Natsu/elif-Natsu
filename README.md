@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing -->
   <a href="">
-    <img src="https://elif-natsu.github.io/assets/svgtest.svg" /></a>
+    <img src="https://svgur.com/i/19u_.svg" /></a>
 </p>
 
 <!-- Social icons section -->
